@@ -6,10 +6,6 @@ I'm Saurabh Varunkar, a BSc IT student passionate about web development.
 - Learning various web technologies, including HTML, CSS, JavaScript, and frameworks like React.
 - Building small projects to apply what I've learned.
 
-🌱 I’m currently learning...
-- Web development principles and best practices.
-- Exploring backend technologies such as Node.js or Django.
-
 💼 Skills
 - Proficient in HTML, CSS, and beginner-intermediate in JavaScript.
 - Familiar with version control using Git and basics of databases.
